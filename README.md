@@ -41,8 +41,8 @@ The code is organized into two main components: a `src/` directory containing th
 Clone the repository and install dependencies (if any):
 
 ```bash
-git clone https://gitlab.com/Niklas-Mueller1988/shallowrandomization
-cd shallowrandomization
+git clone https://github.com/frolandh/LGTShallowShadows.git
+cd LGTShallowShadows/
 pip install -r requirements.txt
 ```
 
