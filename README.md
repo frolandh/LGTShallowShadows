@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## ✨ Authors
 
-- Henry Froland, Jacob Bringewatt, Andreas Elben, Niklas Mueller
+- Jacob Bringewatt, Henry Froland, Andreas Elben, Niklas Mueller
 
 ---
 
