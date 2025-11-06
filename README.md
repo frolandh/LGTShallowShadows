@@ -4,7 +4,7 @@
 
 # Quantum Rotation and Measurement Toolkit
 
-This repository provides a collection of Python files and jupyter notebooks that allow the user to implement classical shadows protocols for Z2 Lattice Gauge theories utilizing a duality with the Ising model as detailed in the following work: TODO INSERT LINK
+This repository provides a collection of Python files and jupyter notebooks that allow the user to implement classical shadows protocols for Z2 Lattice Gauge theories utilizing a duality with the Ising model as detailed in the following work: https://arxiv.org/abs/2511.02904
 The code is organized into two main components: a `src/` directory containing the core source code, and an `example_notebooks/` directory demonstrating how to use the tools in practice.
 
 ---
